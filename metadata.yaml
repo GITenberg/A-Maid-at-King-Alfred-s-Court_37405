@@ -1,0 +1,34 @@
+_repo: A-Maid-at-King-Alfred-s-Court_37405
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Waugh, Ida
+    deathdate: 1919
+    gutenberg_agent_id: '35818'
+    url: http://www.gutenberg.org/2009/agents/35818
+covers:
+- cover_type: archival
+  image_path: 37405-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Madison, Lucy Foster
+    birthdate: 1865
+    deathdate: 1932
+    gutenberg_agent_id: '33094'
+    url: http://www.gutenberg.org/2009/agents/33094
+    wikipedia: http://en.wikipedia.org/wiki/Lucy_Foster_Madison
+description: ''
+gutenberg_issued: '2011-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37405'
+  lccn: '00004746'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alfred, King of England, 849-899 -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'A Maid at King Alfred''s Court: A Story for Girls'
+url: http://www.gutenberg.org/ebooks/37405
